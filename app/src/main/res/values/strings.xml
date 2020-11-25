@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task7Application</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+    <string name="fl1">Фиолетовый букет</string>
+    <string name="fl2">Красный букет</string>
+    <string name="fl3">Желтый букет</string>
+</resources>
